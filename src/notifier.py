@@ -16,6 +16,7 @@ def send_notification(
         "topic": topic,
         "title": title,
         "message": message,
+        "markdown": True,
         "priority": _priority_int(priority),
     }
     if tags:

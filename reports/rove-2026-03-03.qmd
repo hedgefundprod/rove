@@ -1,5 +1,5 @@
 ---
-title: "Rove Miles 每日返现监控"
+title: "Rove Miles 买点数监控"
 subtitle: "2026-03-03"
 date: "2026-03-03"
 format:
@@ -10,177 +10,43 @@ format:
 
 ## 总览
 
-今日监控1447家商户2032个产品线。倍率返现: 8家闭眼入(>80%)、14家非常划算(50-80%)、52个值得考虑，最高 Easyship Freemium Subscription 65.3x倍(花$100拿~$98里程价值)。固定里程: 54个产品线，最高 Bluehost 98,076里程(≈$1,471)。其中18个性价比不错。⚠️ 13个产品太贵不建议纯买点数。
+📊 今日监控 **1447** 家商户 **2032** 个产品线
 
-## 倍率返现 (X-Based)
+## 倍率返现 (CPP < 2¢)
 
-> 基于 1.5¢/里程估值 (Capital One 转航司伙伴)
-
-### 🔥🔥🔥 闭眼入
-
-| 商户 | 产品 | 倍数 | 返现率 | ¢/里程 | 限制 |
-|------|------|------|--------|--------|------|
-| [Easyship](https://www.easyship.com/) | Freemium Subscription | 65.3x | 97.9% | 1.53¢ |  |
-| [Namecheap](https://www.namecheap.com/) | Monthly EasyWP, Monthly FastVPN | 65.3x | 97.9% | 1.53¢ | 仅新客 |
-| [Private Internet Access](https://www.privateinternetaccess.com/) | Monthly Plans | 65.3x | 97.9% | 1.53¢ |  |
-| [CyberGhost](https://www.cyberghostvpn.com/) | Monthly Plans | 65.3x | 97.9% | 1.53¢ |  |
-| [Proton](https://proton.me/) | VPN Plus Monthly | 65.3x | 97.9% | 1.53¢ |  |
-| [Manychat](https://www.manychat.com/) | (全部商品) | 65.3x | 97.9% | 1.53¢ |  |
-| [WiTopia](https://www.witopia.com/) | Plans with Monthly Payments | 65.3x | 97.9% | 1.53¢ |  |
-| [Skylum](https://skylum.com/) | Neo Monthly Subscriptions | 55.5x | 83.2% | 1.80¢ |  |
-
-### 🔥🔥 非常划算
-
-| 商户 | 产品 | 倍数 | 返现率 | ¢/里程 | 限制 |
-|------|------|------|--------|--------|------|
-| [Skylum](https://skylum.com/) | Luminar Mobile 1-Month Subscriptions | 52.3x | 78.4% | 1.91¢ |  |
-| [AmeriCommerce](https://www.americommerce.com/) | (全部商品) | 49x | 73.5% | 2.04¢ |  |
-| [HostGator](https://www.hostgator.com/) | New Hosting Purchases | 45.7x | 68.6% | 2.19¢ |  |
-| [PureVPN](https://www.purevpn.com/) | (全部商品) | 45.7x | 68.6% | 2.19¢ |  |
-| [Bitdefender](https://www.bitdefender.com/) | Security for Creators | 45.7x | 68.6% | 2.19¢ |  |
-| [Ultra Web Hosting](https://www.ultrawebhosting.com/) | (全部商品) | 42.5x | 63.7% | 2.35¢ |  |
-| [Skylum](https://skylum.com/) | Aperty Monthly Subscriptions | 42.5x | 63.7% | 2.35¢ |  |
-| [Upwork](https://www.upwork.com) | New Client Start | 40.3x | 60.4% | 2.48¢ |  |
-| [Surfshark](https://www.surfshark.com/) | Antivirus | 39.2x | 58.8% | 2.55¢ |  |
-| [Surfshark](https://www.surfshark.com/) | Incogni | 39.2x | 58.8% | 2.55¢ |  |
-| [Elementor](https://elementor.com/) | Elementor One | 35.9x | 53.8% | 2.79¢ | 仅新客 |
-| [MacKeeper](https://www.mackeeper.com/) | (全部商品) | 35.9x | 53.8% | 2.79¢ |  |
-| [IObit](https://www.iobit.com/) | (全部商品) | 34.9x | 52.3% | 2.87¢ |  |
-| [Jobber](https://www.getjobber.com) | Connect Monthly | 34.6x | 51.9% | 2.89¢ |  |
-| [Jobber](https://www.getjobber.com) | Monthly Subscription | 34.6x | 51.9% | 2.89¢ |  |
-| [Jobber](https://www.getjobber.com) | Grow Monthly | 34.6x | 51.9% | 2.89¢ |  |
-| [Namecheap](https://www.namecheap.com/) | Annual FastVPN | 34.6x | 51.9% | 2.89¢ | 仅新客 |
-| [CapCut](https://www.capcut.com/) | bafb1869-0902-4d67-ba99-78ba63ea7dd4 - 57431: Purchase-PC - CUSTOMER_COUNTRY IS UK, US, FR, DE, GB | 34.6x | 51.9% | 2.89¢ |  |
-| [CapCut](https://www.capcut.com/) | 5d7b14f1-a2ef-4c7b-8218-272d5c3c92a5 - 67503: Online Sale - CUSTOMER_STATUS IS NEW | 34.6x | 51.9% | 2.89¢ |  |
-| [CapCut](https://www.capcut.com/) | bafb1869-0902-4d67-ba99-78ba63ea7dd4 - 57431: Purchase-PC - CUSTOMER_STATUS IS NEW | 34.6x | 51.9% | 2.89¢ |  |
-| [CapCut](https://www.capcut.com/) | 5d7b14f1-a2ef-4c7b-8218-272d5c3c92a5 - 67503: Online Sale - CUSTOMER_COUNTRY IS UK, US, FR, DE, GB | 34.6x | 51.9% | 2.89¢ |  |
-
-### 🔥 值得考虑
-
-| 商户 | 产品 | 倍数 | 返现率 | ¢/里程 | 限制 |
-|------|------|------|--------|--------|------|
-| [DocuEase](https://www.docuease.com/) | (全部商品) | 32.6x | 48.9% | 3.07¢ |  |
-| [Constant Contact](https://www.constantcontact.com/) | SMS Add-on | 32.6x | 48.9% | 3.07¢ |  |
-| [Ticket Club](https://www.ticketclub.com/) | Subscriptions | 32.6x | 48.9% | 3.07¢ |  |
-| [MacPaw](https://macpaw.com/) | (全部商品) | 32.6x | 48.9% | 3.07¢ |  |
-| [Placeit](https://www.placeit.net/) | (全部商品) | 32.6x | 48.9% | 3.07¢ |  |
-| [Clip Studio Paint](https://www.clipstudio.net/ja) | Monthly Plans | 32.6x | 48.9% | 3.07¢ |  |
-| [PassFab](https://www.passfab.com/) | (全部商品) | 32.6x | 48.9% | 3.07¢ |  |
-| [ClevGuard](https://www.clevguard.com/) | (全部商品) | 32.6x | 48.9% | 3.07¢ |  |
-| [iMobie](https://www.imobie.com/) | 3-Month Subscriptions | 32.6x | 48.9% | 3.07¢ |  |
-| [Bitdefender](https://www.bitdefender.com/) | Business Products | 32.6x | 48.9% | 3.07¢ |  |
-| [AOMEI](https://www.aomeitech.com/) | MC Lifetime Unlimited Plans | 32.6x | 48.9% | 3.07¢ |  |
-| [EaseUS](https://www.easeus.com/) | (全部商品) | 32.6x | 48.9% | 3.07¢ |  |
-| [Systweak Software](https://www.systweak.com/) | (全部商品) | 32.6x | 48.9% | 3.07¢ |  |
-| [HitPaw](https://www.hitpaw.com/) | (全部商品) | 32.6x | 48.9% | 3.07¢ |  |
-| [K7 Computing](https://www.k7computing.com/) | (全部商品) | 32.6x | 48.9% | 3.07¢ |  |
-| [Advanced System Repair](https://www.advancedsystemrepair.com/) | (全部商品) | 32.6x | 48.9% | 3.07¢ |  |
-| [Discover Cars](https://www.discovercars.com) | Consumed Car Rental Booking | 31.1x | 46.7% | 3.22¢ |  |
-| [Elementor](https://elementor.com/) | New Customer | 29.4x | 44.1% | 3.40¢ | 仅新客 |
-| [WiTopia](https://www.witopia.com/) | Personal VPN with Annual Payments | 29.4x | 44.1% | 3.40¢ |  |
-| [CapCut](https://www.capcut.com/) | ab5b44cb-b2ca-4188-8082-ad896d786604 - 57431: Purchase-PC - CUSTOMER_STATUS IS EXISTING | 28.8x | 43.2% | 3.47¢ | 仅新客 |
-| [CapCut](https://www.capcut.com/) | 4c79d5ee-60a8-4bf1-81b0-e8533bbb62f2 - 57431: Purchase-PC - CUSTOMER_COUNTRY IS BR, MX, JP, TH, IT, KR, ES, AR, PL, CA, SA, MY, AU, TW, KZ, CL, RO, NL, BE, AE, PT, SE, CZ, GR, HU, BY, IL, AT, CH, HK, RS, DK, SG, FI, NO, SK, CR, OM, NZ, IE, KW, PA, HR, UY, QA, LT, MD, SI, LV, BH, EE, CY, MO, LU, ME, MV, MT, BS, IS, AG, KY, BM, KN, MC, VG, AI | 28.8x | 43.2% | 3.47¢ |  |
-| [CapCut](https://www.capcut.com/) | c3505a5b-abc7-4af4-91c8-efd4a78792d7 - 67503: Online Sale - CUSTOMER_STATUS IS EXISTING | 28.8x | 43.2% | 3.47¢ | 仅新客 |
-| [CapCut](https://www.capcut.com/) | ab5b44cb-b2ca-4188-8082-ad896d786604 - 57431: Purchase-PC - CUSTOMER_COUNTRY IS UK, US, FR, DE, GB | 28.8x | 43.2% | 3.47¢ |  |
-| [CapCut](https://www.capcut.com/) | 248ded6e-7654-4183-a203-76a488ad0791 - 67503: Online Sale - CUSTOMER_COUNTRY IS BR, MX, JP, TH, IT, KR, ES, AR, PL, CA, SA, MY, AU, TW, KZ, CL, RO, NL, BE, AE, PT, SE, CZ, GR, HU, BY, IL, AT, CH, HK, RS, DK, SG, FI, NO, SK, CR, OM, NZ, IE, KW, PA, HR, UY, QA, LT, MD, SI, LV, BH, EE, CY, MO, LU, ME, MV, MT, BS, IS, AG, KY, BM, KN, MC, VG, AI | 28.8x | 43.2% | 3.47¢ |  |
-| [CapCut](https://www.capcut.com/) | 248ded6e-7654-4183-a203-76a488ad0791 - 67503: Online Sale - CUSTOMER_STATUS IS NEW | 28.8x | 43.2% | 3.47¢ |  |
-| [CapCut](https://www.capcut.com/) | 4c79d5ee-60a8-4bf1-81b0-e8533bbb62f2 - 57431: Purchase-PC - CUSTOMER_STATUS IS NEW | 28.8x | 43.2% | 3.47¢ |  |
-| [CapCut](https://www.capcut.com/) | c3505a5b-abc7-4af4-91c8-efd4a78792d7 - 67503: Online Sale - CUSTOMER_COUNTRY IS UK, US, FR, DE, GB | 28.8x | 43.2% | 3.47¢ |  |
-| [BusinessWatch Network](https://www.businesswatchnetwork.com/) | (全部商品) | 26.1x | 39.2% | 3.83¢ |  |
-| [O&O Software](https://www.oo-software.com/) | (全部商品) | 26.1x | 39.2% | 3.83¢ |  |
-| [DRmare](https://www.drmare.com/) | (全部商品) | 26.1x | 39.2% | 3.83¢ |  |
-| [CyberGhost](https://www.cyberghostvpn.com/) | Other Purchases | 26.1x | 39.2% | 3.83¢ |  |
-| [Proton](https://proton.me/) | VPN Plus Annual | 26.1x | 39.2% | 3.83¢ |  |
-| [mSpy](https://mspy.net/) | (全部商品) | 26.1x | 39.2% | 3.83¢ |  |
-| [AOMEI](https://www.aomeitech.com/) | MC Annual Unlimited Plans | 26.1x | 39.2% | 3.83¢ |  |
-| [NordVPN](https://www.nordvpn.com/) | New Customers | 26.1x | 39.2% | 3.83¢ | 仅新客 |
-| [MagFone](https://www.magfone.com/) | (全部商品) | 26.1x | 39.2% | 3.83¢ |  |
-| [Surfshark](https://www.surfshark.com/) | VPN | 26.1x | 39.2% | 3.83¢ |  |
-| [MiniTool](https://www.minitool.com/) | MovieMaker, ShadowMaker, Video Converter Subscriptions | 26.1x | 39.2% | 3.83¢ |  |
-| [Audials](https://www.audials.com/) | (全部商品) | 26.1x | 39.2% | 3.83¢ |  |
-| [SentryPC](https://www.sentrypc.com/) | Other Purchases | 26.1x | 39.2% | 3.83¢ |  |
-| [CapCut](https://www.capcut.com/) | New Customer Purchase | 25.9x | 38.8% | 3.86¢ |  |
-| [Nektony (MacCleaner)](https://www.nektony.com/) | (全部商品) | 23.5x | 35.2% | 4.26¢ |  |
-| [CapCut](https://www.capcut.com/) | 174b7d34-8a34-484a-b3fd-2eb473789672 - 57431: Purchase-PC - CUSTOMER_STATUS IS EXISTING | 23x | 34.5% | 4.35¢ | 仅新客 |
-| [CapCut](https://www.capcut.com/) | 90dedf02-2e03-4c21-87e0-bc0a3fcb0aee - 67503: Online Sale - CUSTOMER_COUNTRY IS BR, MX, JP, TH, IT, KR, ES, AR, PL, CA, SA, MY, AU, TW, KZ, CL, RO, NL, BE, AE, PT, SE, CZ, GR, HU, BY, IL, AT, CH, HK, RS, DK, SG, FI, NO, SK, CR, OM, NZ, IE, KW, PA, HR, UY, QA, LT, MD, SI, LV, BH, EE, CY, MO, LU, ME, MV, MT, BS, IS, AG, KY, BM, KN, MC, VG, AI | 23x | 34.5% | 4.35¢ |  |
-| [CapCut](https://www.capcut.com/) | 174b7d34-8a34-484a-b3fd-2eb473789672 - 57431: Purchase-PC - CUSTOMER_COUNTRY IS BR, MX, JP, TH, IT, KR, ES, AR, PL, CA, SA, MY, AU, TW, KZ, CL, RO, NL, BE, AE, PT, SE, CZ, GR, HU, BY, IL, AT, CH, HK, RS, DK, SG, FI, NO, SK, CR, OM, NZ, IE, KW, PA, HR, UY, QA, LT, MD, SI, LV, BH, EE, CY, MO, LU, ME, MV, MT, BS, IS, AG, KY, BM, KN, MC, VG, AI | 23x | 34.5% | 4.35¢ |  |
-| [CapCut](https://www.capcut.com/) | 90dedf02-2e03-4c21-87e0-bc0a3fcb0aee - 67503: Online Sale - CUSTOMER_STATUS IS EXISTING | 23x | 34.5% | 4.35¢ | 仅新客 |
-| [LastPass](https://www.lastpass.com/) | New Family/Premium Subscriptions | 22.8x | 34.2% | 4.39¢ | 仅新客 |
-| [Namecheap](https://www.namecheap.com/) | Hosting, SSL Certificates | 22.8x | 34.2% | 4.39¢ | 仅新客 |
-| [PDF Expert](https://pdfexpert.com/) | (全部商品) | 22.8x | 34.2% | 4.39¢ |  |
-| [iMobie](https://www.imobie.com/) | 1-Year Subscriptions | 22.8x | 34.2% | 4.39¢ |  |
-| [AirDroid](https://www.airdroid.com/) | (全部商品) | 22.8x | 34.2% | 4.39¢ |  |
-| [WiTopia](https://www.witopia.com/) | Personal VPN + SecureMyEmail with Annual Payments | 22.8x | 34.2% | 4.39¢ |  |
+| 商户 | 产品 | 倍数/里程 | CPP | 描述 | 限制 |
+|------|------|-----------|-----|------|------|
+| [Easyship](https://www.easyship.com/) | Freemium Subscription | 65.3x | 1.53¢ | 跨境电商物流平台 |  |
+| [Namecheap](https://www.namecheap.com/) | Monthly EasyWP, Monthly FastVPN | 65.3x | 1.53¢ | 域名注册 & 网站托管 | 仅新客 |
+| [Private Internet Access](https://www.privateinternetaccess.com/) | Monthly Plans | 65.3x | 1.53¢ | VPN 隐私保护 |  |
+| [CyberGhost](https://www.cyberghostvpn.com/) | Monthly Plans | 65.3x | 1.53¢ | VPN 隐私保护 |  |
+| [Proton](https://proton.me/) | VPN Plus Monthly | 65.3x | 1.53¢ | 加密邮箱 & VPN & 云存储 |  |
+| [Manychat](https://www.manychat.com/) | (全部商品) | 65.3x | 1.53¢ | 聊天机器人/自动化营销 |  |
+| [WiTopia](https://www.witopia.com/) | Plans with Monthly Payments | 65.3x | 1.53¢ | VPN 隐私保护 |  |
+| [Skylum](https://skylum.com/) | Neo Monthly Subscriptions | 55.5x | 1.80¢ | AI 照片编辑软件 (Luminar) |  |
+| [Skylum](https://skylum.com/) | Luminar Mobile 1-Month Subscriptions | 52.3x | 1.91¢ | AI 照片编辑软件 (Luminar) |  |
 
 
-## 固定里程返现
+## 固定里程 (CPP < 2¢)
 
-### 💰 值得买
-
-| 商户 | 产品 | 里程 | 里程价值 | 评估 |
-|------|------|------|---------|------|
-| [Bluehost](https://www.bluehost.com/) | Enhanced, Premium, Standard, 2× CPU Storage Dedicated Serves | 98,076 | $1,471 | 非常划算 |
-| [SignNow](https://www.signnow.com/) | signNow API Starter Purchase | 57,692 | $865 | 非常划算 |
-| [SignNow](https://www.signnow.com/) | signNow API Purchase | 43,269 | $649 | 非常划算 |
-| [Bluehost](https://www.bluehost.com/) | VPS Web Hosting, VPS Web Serves, VPS cPanels | 32,692 | $490 | 非常划算 |
-| [eReleases](https://www.ereleases.com/) | New Customers | 22,819 | $342 | 可以考虑 |
-| [Jobber](https://www.getjobber.com) | Grow Annual | 17,307 | $260 | 可以考虑 |
-| [TopResume](https://topresume.com) | e1be224f-59ed-4d4d-a334-5580e3f865c7 - 36406: Online Sale - ITEM_SKU IS TfXhszi | 17,307 | $260 | 可以考虑 |
-| [TopResume](https://topresume.com) | c4c61567-8097-47c4-9ea1-85edfd07c696 - 36406: Online Sale - ITEM_SKU IS qWBrksU | 17,307 | $260 | 可以考虑 |
-| [TopResume](https://topresume.com) | 758af815-3d4f-45f0-ab57-253534cc29e8 - 36406: Online Sale - ITEM_SKU IS CeNSXMV | 17,307 | $260 | 可以考虑 |
-| [Verizon Business](https://www.verizon.com/business/) | Service Activations | 16,346 | $245 | 可以考虑 |
-| [AT&T Business](https://www.att.com/smallbusiness/) | New Internet Plans | 13,076 | $196 | 可以考虑 |
-| [Verizon Business](https://www.verizon.com/business/) | Wireless Purchases | 13,076 | $196 | 可以考虑 |
-| [Network Solutions](https://www.networksolutions.com/) | Website Builder | 9,807 | $147 | 可以考虑 |
-| [Network Solutions](https://www.networksolutions.com/) | Hosting | 9,807 | $147 | 可以考虑 |
-| [Network Solutions](https://www.networksolutions.com/) | eCommerce Website Builder | 9,807 | $147 | 可以考虑 |
-| [Jobber](https://www.getjobber.com) | Connect Annual | 8,653 | $130 | 可以考虑 |
-| [HughesNet](https://www.hughesnet.com/cj-program) | Online Purchase | 8,653 | $130 | 可以考虑 |
-| [Network Solutions](https://www.networksolutions.com/) | SSL Certificates | 4,903 | $74 | 可以考虑 |
-
-### ⚠️ 性价比一般
-
-| 商户 | 产品 | 里程 | 里程价值 | 评估 |
-|------|------|------|---------|------|
-| [The Motley Fool](https://www.fool.com/) | New Fool One Members | 39,230 | $588 | 性价比一般 |
-| [The Motley Fool](https://www.fool.com/) | New Fool Portfolios Members | 26,153 | $392 | 性价比一般 |
-| [SentryPC](https://www.sentrypc.com/) | $1,000+ Purchases | 26,153 | $392 | 性价比一般 |
-| [QuickBooks](https://quickbooks.intuit.com/) | Enterprise | 13,076 | $196 | 性价比一般 |
-| [BetterLegal](https://betterlegal.com/) | (全部商品) | 13,076 | $196 | 性价比一般 |
-| [SurePayroll](https://surepayroll.com) | Wholesale Purchase | 11,538 | $173 | 性价比一般 |
-| [GoToWebinar](https://www.gotomeeting.com/) | (全部商品) | 9,807 | $147 | 性价比一般 |
-| [The Excellence Collection](https://www.theexcellencecollection.com/) | Special Bookings | 7,846 | $118 | 里程价值$118 | 成本未知 |
-| [Constant Contact](https://www.constantcontact.com/) | Subscriptions | 6,865 | $103 | 性价比一般 |
-| [LogMeIn Resolve](https://www.logmein.com/) | Standard Annual Subscriptions | 6,538 | $98 | 里程价值$98 | 成本未知 |
-| [Website Closers](https://www.websiteclosers.com/) | (全部商品) | 6,538 | $98 | 里程价值$98 | 成本未知 |
-| [Consumer Cellular](https://www.consumercellular.com/) | New Customers | 6,538 | $98 | 里程价值$98 | 成本未知 |
-| [InterServer](https://www.interserver.net/) | New Customers | 6,538 | $98 | 里程价值$98 | 成本未知 |
-| [Verizon](https://www.verizon.com) | New Service Contracts | 5,769 | $87 | 里程价值$87 | 成本未知 |
-| [Resume Writing Group](https://www.resumewritinggroup.com/) | (全部商品) | 4,903 | $74 | 里程价值$74 | 成本未知 |
-| [betterair](https://www.betterairus.com/) | (全部商品) | 4,903 | $74 | 里程价值$74 | 成本未知 |
-| [Frontier Communications](https://www.frontier.com/) | New Frontier Plan Purchase or Upgrade | 4,326 | $65 | 里程价值$65 | 成本未知 |
-| [Bluehost](https://www.bluehost.com/) | eCommerce, Monthly VPS, Cloud, Dedicated, Shared Hosting | 4,250 | $64 | 性价比一般 |
-| [Bluehost](https://www.bluehost.com/) | Other Purchases | 4,250 | $64 | 性价比一般 |
-| [LogMeIn Resolve](https://www.logmein.com/) | Remote Annual Subscriptions | 3,923 | $59 | 里程价值$59 | 成本未知 |
-| [The Excellence Collection](https://www.theexcellencecollection.com/) | Other Purchases | 3,923 | $59 | 里程价值$59 | 成本未知 |
-| [Total Wireless](https://www.totalwireless.com/) | Activations | 3,792 | $57 | 里程价值$57 | 成本未知 |
-| [Visible by Verizon](https://visible.com/) | (全部商品) | 3,792 | $57 | 里程价值$57 | 成本未知 |
-
-### ❌ 太贵不建议
-
-| 商户 | 产品 | 里程 | 里程价值 | 评估 |
-|------|------|------|---------|------|
-| [Xendoo](https://www.xendoo.com/) | (全部商品) | 32,692 | $490 | 太贵，不建议纯买点数 |
-| [Rebag](https://rebag.com) | New Customer Purchase over $14,124 | 24,403 | $366 | 太贵，不建议纯买点数 |
-| [The Motley Fool](https://www.fool.com/) | New Epic Plus Members | 19,615 | $294 | 太贵，不建议纯买点数 |
-| [The Motley Fool](https://www.fool.com/) | New Epic Members | 13,076 | $196 | 太贵，不建议纯买点数 |
-| [GoToMyPC](https://get.gotomypc.com/) | Yearly Corporate Plan Purchase | 6,634 | $100 | 太贵，不建议纯买点数 |
-| [ZipRecruiter](https://www.ziprecruiter.com/) | Employer Account Registration | 6,538 | $98 | 太贵，不建议纯买点数 |
-| [GoToMyPC](https://get.gotomypc.com/) | Yearly Pro Plan Purchase | 6,346 | $95 | 太贵，不建议纯买点数 |
-| [SurePayroll](https://surepayroll.com) | Online Purchase | 5,769 | $87 | 太贵，不建议纯买点数 |
-| [The Motley Fool](https://www.fool.com/) | New Stock Advisor Members | 5,230 | $78 | 太贵，不建议纯买点数 |
-| [SignNow](https://www.signnow.com/) | Online Purchase | 4,543 | $68 | 太贵，不建议纯买点数 |
-| [GoToMyPC](https://get.gotomypc.com/) | Yearly Personal Plan Purchase | 4,038 | $61 | 太贵，不建议纯买点数 |
-| [QuickBooks](https://quickbooks.intuit.com/) | Payroll (no Trial) | 3,596 | $54 | 太贵，不建议纯买点数 |
-| [GoToMyPC](https://get.gotomypc.com/) | Monthly Pro Plan Purchase | 3,461 | $52 | 太贵，不建议纯买点数 |
+| 商户 | 产品 | 倍数/里程 | CPP | 描述 | 限制 |
+|------|------|-----------|-----|------|------|
+| [Bluehost](https://www.bluehost.com/) | Enhanced, Premium, Standard, 2× CPU Storage Dedicated Serves | 98,076 | 0.20¢ | WordPress 网站托管 |  |
+| [SignNow](https://www.signnow.com/) | signNow API Starter Purchase | 57,692 | 0.52¢ | 电子签名服务 |  |
+| [Bluehost](https://www.bluehost.com/) | VPS Web Hosting, VPS Web Serves, VPS cPanels | 32,692 | 0.61¢ | WordPress 网站托管 |  |
+| [SignNow](https://www.signnow.com/) | signNow API Purchase | 43,269 | 0.69¢ | 电子签名服务 |  |
+| [Network Solutions](https://www.networksolutions.com/) | Website Builder | 9,807 | 0.82¢ | 域名 & 网站托管 | 仅新客 |
+| [Network Solutions](https://www.networksolutions.com/) | Hosting | 9,807 | 0.82¢ | 域名 & 网站托管 | 仅新客 |
+| [Network Solutions](https://www.networksolutions.com/) | eCommerce Website Builder | 9,807 | 0.82¢ | 域名 & 网站托管 | 仅新客 |
+| [Jobber](https://www.getjobber.com) | Grow Annual | 17,307 | 0.87¢ | 现场服务管理软件 |  |
+| [AT&T Business](https://www.att.com/smallbusiness/) | New Internet Plans | 13,076 | 1.15¢ | 企业通信/网络服务 |  |
+| [HughesNet](https://www.hughesnet.com/cj-program) | Online Purchase | 8,653 | 1.16¢ | 卫星宽带网络 |  |
+| [Verizon Business](https://www.verizon.com/business/) | Service Activations | 16,346 | 1.22¢ | 企业通信/网络服务 |  |
+| [TopResume](https://topresume.com) | e1be224f-59ed-4d4d-a334-5580e3f865c7 - 36406: Online Sale - ITEM_SKU IS TfXhszi | 17,307 | 1.44¢ | 简历代写服务 |  |
+| [TopResume](https://topresume.com) | c4c61567-8097-47c4-9ea1-85edfd07c696 - 36406: Online Sale - ITEM_SKU IS qWBrksU | 17,307 | 1.44¢ | 简历代写服务 |  |
+| [TopResume](https://topresume.com) | 758af815-3d4f-45f0-ab57-253534cc29e8 - 36406: Online Sale - ITEM_SKU IS CeNSXMV | 17,307 | 1.44¢ | 简历代写服务 |  |
+| [Verizon Business](https://www.verizon.com/business/) | Wireless Purchases | 13,076 | 1.53¢ | 企业通信/网络服务 |  |
+| [Network Solutions](https://www.networksolutions.com/) | SSL Certificates | 4,903 | 1.63¢ | 域名 & 网站托管 | 仅新客 |
+| [Jobber](https://www.getjobber.com) | Connect Annual | 8,653 | 1.73¢ | 现场服务管理软件 |  |
+| [eReleases](https://www.ereleases.com/) | New Customers | 22,819 | 1.75¢ | 新闻稿发布服务 | 仅新客 |
 

@@ -1,104 +1,63 @@
 """
-Points arbitrage analysis at the product level using commission_details.
-
-Each store may have multiple product tiers with different multipliers.
-We evaluate each tier independently to give accurate buy-for-points advice.
+Unified CPP (cents per point) calculation for both X-based and flat miles deals.
+Only deals with CPP < threshold are worth buying purely for points.
 """
 
 from dataclasses import dataclass
-from enum import Enum
 
 from src.analyzer import DealLine
-
-DEFAULT_MILE_VALUE_CPP = 1.5
-
-
-class DealTier(Enum):
-    NO_BRAINER = "NO_BRAINER"
-    GREAT = "GREAT"
-    GOOD = "GOOD"
-    NORMAL = "NORMAL"
-
-
-TIER_THRESHOLDS = {
-    DealTier.NO_BRAINER: 0.80,
-    DealTier.GREAT: 0.50,
-    DealTier.GOOD: 0.30,
-}
-
-TIER_EMOJI = {
-    DealTier.NO_BRAINER: "🔥🔥🔥",
-    DealTier.GREAT: "🔥🔥",
-    DealTier.GOOD: "🔥",
-    DealTier.NORMAL: "",
-}
-
-TIER_LABEL_CN = {
-    DealTier.NO_BRAINER: "闭眼入",
-    DealTier.GREAT: "非常划算",
-    DealTier.GOOD: "值得考虑",
-    DealTier.NORMAL: "",
-}
+from src.product_label import estimate_cost
 
 
 @dataclass
 class ValuedDeal:
     deal_line: DealLine
-    cost_per_mile_cpp: float
-    effective_return_pct: float
-    mile_value_dollars: float
-    tier: DealTier
+    cpp: float  # cents per point — lower is better
+    cpp_source: str  # "multiplier", "est_cost", "product_name", "unknown"
+    mile_value_dollars: float  # at 1.5cpp benchmark
 
 
-def classify_tier(effective_return: float) -> DealTier:
-    for tier, threshold in TIER_THRESHOLDS.items():
-        if effective_return >= threshold:
-            return tier
-    return DealTier.NORMAL
+def compute_cpp(dl: DealLine) -> tuple[float, str]:
+    if dl.multiplier_type == "x":
+        if dl.multiplier_value > 0:
+            return 100.0 / dl.multiplier_value, "multiplier"
+        return float("inf"), "multiplier"
+
+    _cost_str, cost_usd = estimate_cost(dl)
+    if cost_usd is not None and cost_usd > 0 and dl.multiplier_value > 0:
+        cpp = cost_usd / dl.multiplier_value * 100
+        return cpp, "est_cost"
+
+    return float("inf"), "unknown"
 
 
-def evaluate_deal_lines(
-    lines: list[DealLine],
-    mile_value_cpp: float = DEFAULT_MILE_VALUE_CPP,
-) -> list[ValuedDeal]:
+def evaluate_deal_lines(lines: list[DealLine]) -> list[ValuedDeal]:
     deals = []
     for dl in lines:
-        if dl.multiplier_type == "x":
-            cpp = 100.0 / dl.multiplier_value if dl.multiplier_value > 0 else float("inf")
-            effective_return = dl.multiplier_value * mile_value_cpp / 100.0
-            mile_value_dollars = 0.0
-        else:
-            cpp = 0.0
-            effective_return = 0.0
-            mile_value_dollars = dl.multiplier_value * mile_value_cpp / 100.0
-
+        cpp, source = compute_cpp(dl)
+        mile_value = dl.multiplier_value * 1.5 / 100.0 if dl.multiplier_type == "flat_miles" else 0.0
         deals.append(ValuedDeal(
             deal_line=dl,
-            cost_per_mile_cpp=cpp,
-            effective_return_pct=effective_return,
-            mile_value_dollars=mile_value_dollars,
-            tier=classify_tier(effective_return),
+            cpp=cpp,
+            cpp_source=source,
+            mile_value_dollars=mile_value,
         ))
     return deals
 
 
-def filter_buy_for_points(
-    deals: list[ValuedDeal],
-    min_tier: DealTier = DealTier.GOOD,
-) -> list[ValuedDeal]:
-    tier_order = [DealTier.NO_BRAINER, DealTier.GREAT, DealTier.GOOD, DealTier.NORMAL]
-    min_idx = tier_order.index(min_tier)
-    qualifying = [d for d in deals if tier_order.index(d.tier) <= min_idx]
-    return sorted(qualifying, key=lambda d: d.effective_return_pct, reverse=True)
+def filter_under_cpp(deals: list[ValuedDeal], max_cpp: float = 2.0) -> list[ValuedDeal]:
+    return sorted(
+        [d for d in deals if d.cpp < max_cpp and d.cpp > 0],
+        key=lambda d: d.cpp,
+    )
 
 
 def group_by_store(deals: list[ValuedDeal]) -> dict[str, list[ValuedDeal]]:
     groups: dict[str, list[ValuedDeal]] = {}
     for d in deals:
-        key = d.deal_line.store_name
-        groups.setdefault(key, []).append(d)
-    for lines in groups.values():
-        lines.sort(key=lambda d: d.effective_return_pct, reverse=True)
+        groups.setdefault(d.deal_line.store_name, []).append(d)
+    for v in groups.values():
+        v.sort(key=lambda d: d.cpp)
     return groups
 
 
@@ -113,18 +72,12 @@ if __name__ == "__main__":
     lines = flatten_deal_lines(stores)
     deals = evaluate_deal_lines(lines)
 
-    buy_worthy = filter_buy_for_points(deals)
-    rprint(f"\n[bold]Buy-for-Points Deal Lines ({len(buy_worthy)} found):[/bold]")
+    good = filter_under_cpp(deals, max_cpp=2.0)
+    x_deals = [d for d in good if d.deal_line.multiplier_type == "x"]
+    flat_deals = [d for d in good if d.deal_line.multiplier_type == "flat_miles"]
 
-    grouped = group_by_store(buy_worthy)
-    for store_name, store_deals in list(grouped.items())[:10]:
-        best = store_deals[0]
-        new = " ⚠️新客" if best.deal_line.new_customers_only else ""
-        rprint(f"\n[bold]{store_name}[/bold]{new}")
-        for d in store_deals:
-            emoji = TIER_EMOJI[d.tier]
-            rprint(
-                f"  {emoji} {d.deal_line.product_name}: "
-                f"{d.deal_line.multiplier_raw} → "
-                f"返现{d.effective_return_pct:.0%} | {d.cost_per_mile_cpp:.2f}¢/mi"
-            )
+    rprint(f"\n[bold]CPP < 2¢: {len(good)} deals ({len(x_deals)} x-based, {len(flat_deals)} flat)[/bold]")
+    for d in good[:20]:
+        dl = d.deal_line
+        new = " ⚠️新客" if dl.new_customers_only else ""
+        rprint(f"  {d.cpp:.2f}¢ | {dl.store_name}{new} | {dl.product_name} | {dl.multiplier_raw}")
