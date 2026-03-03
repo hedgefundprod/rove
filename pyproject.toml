@@ -1,0 +1,14 @@
+[project]
+name = "rove-monitor"
+version = "0.1.0"
+description = "Daily monitor for Rove Miles highest cashback multipliers"
+requires-python = ">=3.11"
+dependencies = [
+    "httpx",
+    "pydantic",
+    "openai",
+    "rich",
+]
+
+[project.scripts]
+rove-monitor = "main:main"

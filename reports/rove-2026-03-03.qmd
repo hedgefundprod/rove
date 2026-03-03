@@ -1,0 +1,126 @@
+---
+title: "Rove Miles Cashback Monitor"
+subtitle: "Daily Report - 2026-03-03"
+date: "2026-03-03"
+format:
+  html:
+    theme: cosmo
+    toc: true
+  pdf:
+    documentclass: article
+---
+
+## AI Summary
+
+闭眼入: Easyship, Namecheap, Private Internet Access at 65.3x (98% return, 1.53¢/mi). 共 46 个值得买点数的 deal。 Highest flat miles: Bluehost at 98,076 miles.
+
+## Buy for Points Analysis
+
+> Based on 1.5¢/mile valuation (Capital One transfer partners)
+
+- **闭眼入 No-Brainer (>80% return):** 8 deals
+- **非常划算 Great (50-80%):** 11 deals
+- **值得考虑 Worth It (30-50%):** 27 deals
+
+| Tier | Store | Multiplier | Return | Cost/Mile |
+|------|-------|-----------|--------|-----------|
+| 🔥🔥🔥 闭眼入 (No-Brainer) | [Easyship](https://www.easyship.com/) | 65.3x | 97.9% | 1.53¢ |
+| 🔥🔥🔥 闭眼入 (No-Brainer) | [Namecheap](https://www.namecheap.com/) | 65.3x | 97.9% | 1.53¢ |
+| 🔥🔥🔥 闭眼入 (No-Brainer) | [Private Internet Access](https://www.privateinternetaccess.com/) | 65.3x | 97.9% | 1.53¢ |
+| 🔥🔥🔥 闭眼入 (No-Brainer) | [CyberGhost](https://www.cyberghostvpn.com/) | 65.3x | 97.9% | 1.53¢ |
+| 🔥🔥🔥 闭眼入 (No-Brainer) | [Proton](https://proton.me/) | 65.3x | 97.9% | 1.53¢ |
+| 🔥🔥🔥 闭眼入 (No-Brainer) | [Manychat](https://www.manychat.com/) | 65.3x | 97.9% | 1.53¢ |
+| 🔥🔥🔥 闭眼入 (No-Brainer) | [WiTopia](https://www.witopia.com/) | 65.3x | 97.9% | 1.53¢ |
+| 🔥🔥🔥 闭眼入 (No-Brainer) | [Skylum](https://skylum.com/) | 55.5x | 83.2% | 1.80¢ |
+| 🔥🔥 非常划算 (Great Deal) | [AmeriCommerce](https://www.americommerce.com/) | 49x | 73.5% | 2.04¢ |
+| 🔥🔥 非常划算 (Great Deal) | [HostGator](https://www.hostgator.com/) | 45.7x | 68.6% | 2.19¢ |
+| 🔥🔥 非常划算 (Great Deal) | [PureVPN](https://www.purevpn.com/) | 45.7x | 68.6% | 2.19¢ |
+| 🔥🔥 非常划算 (Great Deal) | [Bitdefender](https://www.bitdefender.com/) | 45.7x | 68.6% | 2.19¢ |
+| 🔥🔥 非常划算 (Great Deal) | [Ultra Web Hosting](https://www.ultrawebhosting.com/) | 42.5x | 63.7% | 2.35¢ |
+| 🔥🔥 非常划算 (Great Deal) | [Upwork](https://www.upwork.com) | 40.3x | 60.4% | 2.48¢ |
+| 🔥🔥 非常划算 (Great Deal) | [Surfshark](https://www.surfshark.com/) | 39.2x | 58.8% | 2.55¢ |
+| 🔥🔥 非常划算 (Great Deal) | [Elementor](https://elementor.com/) | 35.9x | 53.8% | 2.79¢ |
+| 🔥🔥 非常划算 (Great Deal) | [MacKeeper](https://www.mackeeper.com/) | 35.9x | 53.8% | 2.79¢ |
+| 🔥🔥 非常划算 (Great Deal) | [IObit](https://www.iobit.com/) | 34.9x | 52.3% | 2.87¢ |
+| 🔥🔥 非常划算 (Great Deal) | [CapCut](https://www.capcut.com/) | 34.6x | 51.9% | 2.89¢ |
+
+## Flat Miles Value Estimate
+
+| Rank | Store | Miles | Est. Value |
+|------|-------|-------|------------|
+| 1 | [Bluehost](https://www.bluehost.com/) | 98,076 | $1,471 |
+| 2 | [SignNow](https://www.signnow.com/) | 57,692 | $865 |
+| 3 | [The Motley Fool](https://www.fool.com/) | 39,230 | $588 |
+| 4 | [Xendoo](https://www.xendoo.com/) | 32,692 | $490 |
+| 5 | [SentryPC](https://www.sentrypc.com/) | 26,153 | $392 |
+| 6 | [Rebag](https://rebag.com) | 24,403 | $366 |
+| 7 | [eReleases](https://www.ereleases.com/) | 22,819 | $342 |
+| 8 | [Jobber](https://www.getjobber.com) | 17,307 | $260 |
+| 9 | [TopResume](https://topresume.com) | 17,307 | $260 |
+| 10 | [Verizon Business](https://www.verizon.com/business/) | 16,346 | $245 |
+
+## Top X-Based Multiplier Deals
+
+| Rank | Multiplier | Store | Category |
+|------|-----------|-------|----------|
+| 1 | 65.3x | [Easyship](https://www.easyship.com/) | Business Spend |
+| 2 | 65.3x | [Namecheap](https://www.namecheap.com/) | Tech & Electronics |
+| 3 | 65.3x | [Private Internet Access](https://www.privateinternetaccess.com/) | Tech & Electronics |
+| 4 | 65.3x | [CyberGhost](https://www.cyberghostvpn.com/) | Tech & Electronics |
+| 5 | 65.3x | [Proton](https://proton.me/) | Tech & Electronics |
+| 6 | 65.3x | [Manychat](https://www.manychat.com/) | Tech & Electronics |
+| 7 | 65.3x | [WiTopia](https://www.witopia.com/) | Tech & Electronics |
+| 8 | 55.5x | [Skylum](https://skylum.com/) | Tech & Electronics |
+| 9 | 49x | [AmeriCommerce](https://www.americommerce.com/) | Business Spend |
+| 10 | 45.7x | [HostGator](https://www.hostgator.com/) | Business Spend |
+
+## Top Flat Miles Rewards
+
+| Rank | Multiplier | Store | Category |
+|------|-----------|-------|----------|
+| 1 | 98,076 miles | [Bluehost](https://www.bluehost.com/) | Business Spend |
+| 2 | 57,692 miles | [SignNow](https://www.signnow.com/) | Tech & Electronics |
+| 3 | 39,230 miles | [The Motley Fool](https://www.fool.com/) | Business Spend |
+| 4 | 32,692 miles | [Xendoo](https://www.xendoo.com/) | Business Spend |
+| 5 | 26,153 miles | [SentryPC](https://www.sentrypc.com/) | Tech & Electronics |
+| 6 | 24,403 miles | [Rebag](https://rebag.com) | Style & Apparel |
+| 7 | 22,819 miles | [eReleases](https://www.ereleases.com/) | Business Spend |
+| 8 | 17,307 miles | [Jobber](https://www.getjobber.com) | Business Spend |
+| 9 | 17,307 miles | [TopResume](https://topresume.com) | Business Spend |
+| 10 | 16,346 miles | [Verizon Business](https://www.verizon.com/business/) | Business Spend |
+
+## Raw Data
+
+### X-Based Multipliers
+
+```
+Rank    Multiplier Store                          Category
+---------------------------------------------------------------------------
+1            65.3x Easyship                       Business Spend
+2            65.3x Namecheap                      Tech & Electronics
+3            65.3x Private Internet Access        Tech & Electronics
+4            65.3x CyberGhost                     Tech & Electronics
+5            65.3x Proton                         Tech & Electronics
+6            65.3x Manychat                       Tech & Electronics
+7            65.3x WiTopia                        Tech & Electronics
+8            55.5x Skylum                         Tech & Electronics
+9              49x AmeriCommerce                  Business Spend
+10           45.7x HostGator                      Business Spend
+```
+
+### Flat Miles
+
+```
+Rank    Multiplier Store                          Category
+---------------------------------------------------------------------------
+1     98,076 miles Bluehost                       Business Spend
+2     57,692 miles SignNow                        Tech & Electronics
+3     39,230 miles The Motley Fool                Business Spend
+4     32,692 miles Xendoo                         Business Spend
+5     26,153 miles SentryPC                       Tech & Electronics
+6     24,403 miles Rebag                          Style & Apparel
+7     22,819 miles eReleases                      Business Spend
+8     17,307 miles Jobber                         Business Spend
+9     17,307 miles TopResume                      Business Spend
+10    16,346 miles Verizon Business               Business Spend
+```
