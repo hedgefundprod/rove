@@ -1,6 +1,6 @@
 import httpx
 
-ROVE_API_URL = "https://apps-backend-prod-669635507142.us-central1.run.app/api/v1/shopping/group"
+ROVE_API_URL = "https://api-v2.rove.com/api/v1/shopping/group"
 
 HEADERS = {
     "accept": "application/json, text/plain, */*",
